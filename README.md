@@ -10,8 +10,6 @@ tree.cn
 hybrid.cn
 arp.cn
 lldp.cn
-csma/cd&csma/ca
-static routing
 tcp
 ip
 icmp
